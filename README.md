@@ -1,2 +1,2 @@
 # abhi-demo
-This is a description.
+This is my first Git repository.
